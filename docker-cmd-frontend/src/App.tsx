@@ -6,7 +6,7 @@ export const App = () => {
     <>
       <Navbar />
       <div className="px-2 border-b">
-        <div className="w-full max-w-4xl mx-auto border-x p-2">
+        <div className="w-full max-w-4xl mx-auto border-x">
           <AllCommands />
         </div>
       </div>
