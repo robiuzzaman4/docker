@@ -11,7 +11,7 @@ export const Navbar = () => {
           <span className="text-sm font-semibold text-primary">Docker CLI</span>
 
           <Button size="sm" onClick={() => setOpen(true)}>
-            Add New
+            Add New CLI
           </Button>
         </nav>
       </header>
